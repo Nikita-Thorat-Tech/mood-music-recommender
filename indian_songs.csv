@@ -1,0 +1,68 @@
+track_name,artists,Album,Release Date,Cover Image,popularity,track_genre,danceability,energy,acousticness,valence,tempo
+Naatu Naatu,"Rahul Sipligunj, Kaala Bhairava",RRR,2022,,90,bollywood,0.92,0.95,0.05,0.95,128
+Kesariya,Arijit Singh,Brahmastra,2022,,88,bollywood,0.6,0.55,0.4,0.7,95
+Chaiyya Chaiyya,"Sukhwinder Singh, Sapna Awasthi",Dil Se,1998,,85,bollywood,0.88,0.9,0.1,0.88,120
+Jai Ho,A.R. Rahman,Slumdog Millionaire,2008,,87,bollywood,0.85,0.88,0.08,0.9,122
+Gallan Goodiyaan,"Shankar Mahadevan, Shekhar Ravjiani",Dil Dhadakne Do,2015,,82,bollywood,0.9,0.92,0.06,0.93,130
+Badtameez Dil,"Shalmali Kholgade, Udit Narayan",Yeh Jawaani Hai Deewani,2013,,83,bollywood,0.87,0.89,0.07,0.91,125
+Balam Pichkari,"Shalmali Kholgade, Vishal Dadlani",Yeh Jawaani Hai Deewani,2013,,80,bollywood,0.91,0.93,0.05,0.94,132
+Dilliwali Girlfriend,"Arijit Singh, Sunidhi Chauhan",Yeh Jawaani Hai Deewani,2013,,78,bollywood,0.86,0.87,0.09,0.88,118
+Lungi Dance,Yo Yo Honey Singh,Chennai Express,2013,,79,bollywood,0.93,0.94,0.04,0.92,135
+Desi Beat,Imran Khan,Bodyguard,2011,,75,bollywood,0.89,0.91,0.06,0.89,128
+Tum Hi Ho,Arijit Singh,Aashiqui 2,2013,,95,bollywood,0.45,0.35,0.72,0.55,68
+Tera Ban Jaunga,"Akhil Sachdeva, Tulsi Kumar",Kabir Singh,2019,,88,bollywood,0.42,0.32,0.78,0.5,65
+Raataan Lambiyan,"Jubin Nautiyal, Asees Kaur",Shershaah,2021,,92,bollywood,0.55,0.45,0.6,0.62,80
+Pehla Nasha,"Udit Narayan, Sadhana Sargam",Jo Jeeta Wohi Sikandar,1992,,85,bollywood,0.4,0.3,0.8,0.75,72
+Mere Naam Tu,Abhay Jodhpurkar,Zero,2018,,80,bollywood,0.38,0.28,0.82,0.7,70
+Ve Maahi,"Arijit Singh, Asees Kaur",Kesari,2019,,86,bollywood,0.5,0.42,0.65,0.65,78
+Ae Dil Hai Mushkil,Arijit Singh,Ae Dil Hai Mushkil,2016,,88,bollywood,0.48,0.4,0.68,0.48,75
+Ik Vaari Aa,Arijit Singh,Raabta,2017,,84,bollywood,0.46,0.38,0.7,0.52,72
+Channa Mereya,Arijit Singh,Ae Dil Hai Mushkil,2016,,90,bollywood,0.44,0.36,0.74,0.42,69
+Hawayein,Arijit Singh,Jab Harry Met Sejal,2017,,87,bollywood,0.42,0.33,0.76,0.58,68
+Kal Ho Na Ho,Sonu Nigam,Kal Ho Na Ho,2003,,88,bollywood,0.38,0.4,0.65,0.25,70
+Tujhe Bhula Diya,"Mohit Chauhan, Shilpa Rao",Anjaana Anjaani,2010,,82,bollywood,0.35,0.32,0.72,0.22,65
+Phir Le Aya Dil,Arijit Singh,Barfi!,2012,,84,bollywood,0.32,0.28,0.78,0.2,62
+Jeena Jeena,Atif Aslam,Badlapur,2015,,80,bollywood,0.4,0.35,0.68,0.3,72
+Main Agar Kahoon,"Sonu Nigam, Shreya Ghoshal",Om Shanti Om,2007,,78,bollywood,0.36,0.3,0.75,0.28,66
+Hamari Adhuri Kahani,Arijit Singh,Hamari Adhuri Kahani,2015,,82,bollywood,0.3,0.25,0.82,0.18,60
+Alvida,KK,Life in a Metro,2007,,79,bollywood,0.33,0.28,0.8,0.2,63
+Kar Har Maidaan Fateh,"Sukhwinder Singh, Shreya Ghoshal",Sanju,2018,,85,bollywood,0.72,0.88,0.08,0.85,115
+Zinda,Siddharth Mahadevan,Bhaag Milkha Bhaag,2013,,82,bollywood,0.7,0.9,0.06,0.82,118
+Sultan,Sukhwinder Singh,Sultan,2016,,80,bollywood,0.68,0.87,0.07,0.8,112
+Toofaan,Farhan Akhtar,Toofaan,2021,,75,bollywood,0.65,0.85,0.09,0.78,110
+Punjabi MC,Punjabi MC,Punjabi MC Hits,2002,,80,punjabi,0.95,0.96,0.03,0.95,140
+Paani Da Rang,Vicky,Paani Da Rang,2012,,78,punjabi,0.55,0.5,0.55,0.6,82
+Saun Di Jhadi,Satinder Sartaaj,Sartaaj,2013,,76,punjabi,0.45,0.38,0.72,0.55,70
+Qismat,Ammy Virk,Qismat,2018,,82,punjabi,0.52,0.45,0.6,0.4,75
+Kala Chashma,"Badshah, Aastha Gill",Baar Baar Dekho,2016,,87,punjabi,0.93,0.94,0.04,0.93,138
+Proper Patola,"Badshah, Diljit Dosanjh",Namaste England,2018,,82,punjabi,0.91,0.92,0.05,0.91,135
+Excuses,"AP Dhillon, Gurinder Gill",Excuses,2020,,88,punjabi,0.7,0.68,0.25,0.55,95
+Brown Munde,"AP Dhillon, Gurinder Gill, Shinda Kahlon",Brown Munde,2020,,90,punjabi,0.85,0.88,0.08,0.8,120
+Lover,Diljit Dosanjh,G.O.A.T.,2020,,85,punjabi,0.75,0.72,0.2,0.7,100
+5 Taara,Diljit Dosanjh,5 Taara,2015,,80,punjabi,0.88,0.9,0.06,0.88,128
+Rowdy Baby,"Dhanush, Dhee",Maari 2,2018,,92,tamil,0.92,0.94,0.05,0.92,132
+Kannaana Kanney,"D. Imman, Sid Sriram",Viswasam,2019,,88,tamil,0.42,0.35,0.75,0.7,68
+Veyyon Silli,AR Rahman,Enai Noki Paayum Thota,2019,,80,tamil,0.52,0.48,0.6,0.55,80
+Vaa Vaa Anbe,Karthik,Ko,2011,,78,tamil,0.55,0.52,0.55,0.65,85
+Butta Bomma,Armaan Malik,Ala Vaikunthapurramuloo,2020,,90,telugu,0.75,0.72,0.2,0.85,105
+Samajavaragamana,Sid Sriram,Ala Vaikunthapurramuloo,2020,,88,telugu,0.45,0.38,0.7,0.6,72
+Ramuloo Ramulaa,"Anurag Kulkarni, Manasvi",Ala Vaikunthapurramuloo,2020,,85,telugu,0.9,0.92,0.05,0.92,132
+Srivalli,Sid Sriram,Pushpa,2021,,92,telugu,0.62,0.6,0.38,0.72,90
+Oo Antava,Indravathi Chauhan,Pushpa,2022,,90,telugu,0.88,0.9,0.06,0.88,126
+Kun Faya Kun,"AR Rahman, Javed Ali, Mohit Chauhan",Rockstar,2011,,92,sufi,0.35,0.42,0.7,0.8,85
+Tere Bin,"Atif Aslam, Maher Zain",Wazir,2016,,85,sufi,0.38,0.35,0.75,0.65,72
+Arziyan,"Javed Ali, Kailash Kher",Delhi 6,2009,,82,sufi,0.32,0.38,0.72,0.78,80
+Dama Dam Mast Qalandar,Abida Parveen,Sufi Collection,1998,,80,sufi,0.55,0.62,0.55,0.82,95
+Mann Kunto Maula,Shankar Mahadevan,Rockstar,2011,,78,sufi,0.3,0.35,0.78,0.75,75
+Manzoor-e-Khuda,"Papon, Shafqat Amanat Ali",Qarib Qarib Singlle,2017,,75,indie,0.48,0.42,0.68,0.6,78
+Iktara,"Amit Trivedi, Kavita Seth",Wake Up Sid,2009,,80,indie,0.4,0.35,0.78,0.62,70
+Dooba Dooba Rehta Hoon,Mohit Chauhan,Silk Route,2000,,78,indie,0.42,0.38,0.72,0.45,72
+Aadat,Atif Aslam,Jal Pari,2004,,82,indie,0.38,0.42,0.65,0.3,75
+Kabhi Jo Baadal Barse,Arijit Singh,Jackpot,2013,,84,indie,0.36,0.32,0.8,0.35,65
+Tu Jaane Na,Atif Aslam,Ajab Prem Ki Ghazab Kahani,2009,,86,indie,0.4,0.35,0.75,0.32,68
+Dum Maro Dum,Asha Bhosle,Hare Rama Hare Krishna,1971,,82,retro,0.8,0.82,0.18,0.85,112
+Yeh Jo Hai Zindagi,Kishore Kumar,Yeh Jo Hai Zindagi,1983,,78,retro,0.72,0.75,0.25,0.88,105
+Kuch Kuch Hota Hai,"Udit Narayan, Kavita Krishnamurthy",Kuch Kuch Hota Hai,1998,,88,retro,0.68,0.72,0.3,0.85,100
+Aaj Mausam Bada Beimaan Hai,Mohammed Rafi,Loafer,1973,,75,retro,0.62,0.65,0.4,0.78,92
+Mere Sapno Ki Rani,Kishore Kumar,Aradhana,1969,,80,retro,0.65,0.68,0.38,0.82,95
+Rimjhim Gire Sawan,Kishore Kumar,Manzil,1979,,82,retro,0.45,0.42,0.65,0.65,78
